@@ -582,12 +582,12 @@ function App() {
                 </div>
                 <div className="bg-gray-50 dark:bg-gray-800 p-6 rounded-lg shadow">
                   <h4 className="font-semibold text-lg text-gray-900 dark:text-white">Class XII</h4>
-                  <p className="text-blue-600 dark:text-blue-400 mt-1">Narayana Junior College</p>
+                  <p className="text-blue-600 dark:text-blue-400 mt-1">Sri Chaitanya Junior College</p>
                   <p className="text-gray-500 dark:text-gray-400 text-sm mt-1">2020-2022 | <strong className="text-blue-600 dark:text-blue-400">802/1000 Marks</strong></p>
                 </div>
                 <div className="bg-gray-50 dark:bg-gray-800 p-6 rounded-lg shadow">
                   <h4 className="font-semibold text-lg text-gray-900 dark:text-white">Class X</h4>
-                  <p className="text-blue-600 dark:text-blue-400 mt-1">Dr.Kishore Ratnam High School</p>
+                  <p className="text-blue-600 dark:text-blue-400 mt-1">Sri Chaitanya Techno School</p>
                   <p className="text-gray-500 dark:text-gray-400 text-sm mt-1">2019-2020 | <strong className="text-blue-600 dark:text-blue-400">600/600 Marks</strong></p>
                 </div>
               </div>
